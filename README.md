@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Aplicação-Food" src="" />
+  <img alt="Aplicação-Food" src=".github/logo.png" />
 </h1>
 
 <p align="center">
