@@ -50,8 +50,6 @@ Clone the project and access the folder
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 food application in node.js and vue.js
 
 ---
