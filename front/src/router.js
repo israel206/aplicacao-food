@@ -4,7 +4,6 @@ import Router from 'vue-router'
 import Home from './components/Home'
 import Restaurants from './components/Restaurants'
 
-
 Vue.use(Router)
 
 export default new Router({
